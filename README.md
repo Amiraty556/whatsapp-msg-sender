@@ -1,0 +1,2 @@
+Ever get tired of typing the same message over and over again? whatsapp message spammer is a simple, lightweight automation tool that does the typing for you.
+You just plug in the phone number, type your message, and decide how many times you want it sent. It opens up WhatsApp Web directly, but here is the best part: it's designed to be safe. If you click away or switch tabs while it's working, the app automatically pauses. You're always in complete control, and you can stop it at any time with a single click
